@@ -1,3 +1,5 @@
 I like apple
 
 I every day eat an apple
+
+I don't eat an apple today.
